@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou o Alex Salviano! 👋
 
-<!--
-**AlexSalv1/AlexSalv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Desenvolvedor Full Stack & Entusiasta de Sistemas SaaS
+Atualmente focado na construção de soluções inteligentes para o setor automotivo e gestão de processos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projeto em Destaque: **Nave Mãe (Mecânica SaaS)**
+Um ecossistema completo para gestão de oficinas mecânicas com arquitetura **Multi-Tenant**.
+- **Backend:** Node.js, Express, PostgreSQL (Neon)
+- **Frontend:** React Native (Em desenvolvimento)
+- **Destaque:** Controle de estoque inteligente e cálculo automático de Ordens de Serviço.
+
+---
+
+### 💻 Minhas Tecnologias
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estatísticas de Código
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexSalv1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSalv1&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 📫 Como me encontrar
+<p align="left">
+  <a href="(https://www.linkedin.com/in/alex-salviano-32115a201)" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
