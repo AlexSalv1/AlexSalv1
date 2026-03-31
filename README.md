@@ -1,12 +1,12 @@
 # Olá, eu sou o Alex Salviano! 👋
 
-### 🛠 Desenvolvedor Full Stack & Entusiasta de Sistemas SaaS
-Atualmente focado na construção de soluções inteligentes para o setor automotivo e gestão de processos.
+### 🛠 Desenvolvedor Full Stack & Entusiasta
+Atualmente focado na construção de soluções inteligentes para o setor de gestão de processos.
 
 ---
 
-### 🚀 Projeto em Destaque: **Nave Mãe (Mecânica SaaS)**
-Um ecossistema completo para gestão de oficinas mecânicas com arquitetura **Multi-Tenant**.
+### 🚀 Projeto Atual:
+Um ecossistema completo para gestão com arquitetura **Multi-Tenant**.
 - **Backend:** Node.js, Express, PostgreSQL (Neon)
 - **Frontend:** React Native (Em desenvolvimento)
 - **Destaque:** Controle de estoque inteligente e cálculo automático de Ordens de Serviço.
