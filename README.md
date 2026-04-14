@@ -1,32 +1,43 @@
 # Olá, eu sou o Alex Salviano! 👋
 
-### 🛠 Desenvolvedor Full Stack & Entusiasta
-Atualmente focado na construção de soluções inteligentes para o setor de gestão de processos.
+Desenvolvedor Full-Stack focado em criar soluções eficientes para gestão empresarial e automação de processos. Atualmente, estou desenvolvendo o **ProMec**, um ecossistema completo para oficinas mecânicas.
 
 ---
 
-### 🚀 Projeto Atual:
-Um ecossistema completo para gestão com arquitetura **Multi-Tenant**.
-- **Backend:** Node.js, Express, PostgreSQL (Neon)
-- **Frontend:** React Native (Em desenvolvimento)
-- **Destaque:** Controle de estoque inteligente e cálculo automático de Ordens de Serviço.
+### 🛠 No que estou trabalhando?
+
+Meu projeto principal no momento é o **ProMec**, que consiste em:
+* **ProMec API:** Um backend robusto em Node.js com PostgreSQL (Neon.tech) e deploy automatizado no Render.
+* **ProMec Mobile:** App em React Native/Expo com suporte offline (WatermelonDB) e assinatura digital.
+* **ProMec Desktop:** Migração da plataforma para ambiente Windows utilizando Electron.
 
 ---
 
-### 💻 Minhas Tecnologias
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+### 🚀 Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Infra** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
-### 🔥 Sequência de Contribuições (Streak)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexSalv1&theme=dracula" alt="GitHub Streak" />
-</p>
+### 📊 Estatísticas e Streak
 
+Aqui você pode acompanhar meu ritmo de desenvolvimento:
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexSalv1&theme=tokyonight&hide_border=true)
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexSalv1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Como me encontrar
+
+* **GitHub:** [AlexSalv1](https://github.com/AlexSalv1)
+* **LinkedIn:** [Alex Salviano](https://www.linkedin.com/in/alex-salviano-32115a201/)
+
+---
+*"Transformando linhas de código em soluções."*
