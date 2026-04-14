@@ -37,7 +37,7 @@ Aqui você pode acompanhar meu ritmo de desenvolvimento:
 ### 📫 Como me encontrar
 
 * **GitHub:** [AlexSalv1](https://github.com/AlexSalv1)
-* **LinkedIn:** [Alex Salviano](https://www.linkedin.com/in/alex-salviano-32115a201/)
+* **LinkedIn:** [Alex Salviano](https://www.linkedin.com/in/alex-salviano/)
 
 ---
 *"Transformando linhas de código em soluções."*
